@@ -1,6 +1,9 @@
 # WorkerLivesMatter
+# 请转到 https://github.com/WorkerLivesMatter/WorkerLivesMatter
 
-# 重要链接
+感谢@SwJay提醒，本项目名打错了，最新地址如上
+
+## 重要链接
 + 填写问卷匿名发布自己部门的作息时间 https://docs.qq.com/form/page/DUUdPbWhnWVF3ekh6
 + 实时查看数据的收集表 https://docs.qq.com/sheet/DUXVoa3BsRG1HYlZE?tab=BB08J2
 + 每日凌晨整理数据的总表 https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js
